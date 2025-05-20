@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc 
+
+db.sqlite3
+
+static/ #PythonAnywhere에서 중복처리됨.
